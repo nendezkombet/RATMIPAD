@@ -1,0 +1,1 @@
+Open the cutting file with Adobe Illustrator or Corel Draw
