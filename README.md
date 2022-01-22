@@ -1,4 +1,4 @@
-# RATMI
+# RATMIPAD
 
 Ratmi is multi layout macropad supports six analog potentiometer, two rotary encoders, 3.5mm TRS socket for sending out serial data like midi output and more. The firmware is fully QMK, see [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. 
 The analog potentiometer outputs a midi signal which can be recognized by any software reads midi input. For hardware midi controller the PCB has 3.5mm TRS female socket footprint ( 3.5mm TRS male jack to 5-pin midi midi cable as connector required ), for this specific purpose the programaing code can be done with arduinoIDE.
