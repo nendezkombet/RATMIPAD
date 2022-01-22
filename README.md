@@ -120,6 +120,11 @@ Will be update soon !!!
 
 ## Firmware
 
+Firmware flashing :
 
-Will be uodate soon !!!
+Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap
+
+Enter the bootloader :
+
+Briefly press the button twice on the small hole located in the top of the encoder with simcard ejector pin than hit flash 
 
