@@ -115,7 +115,7 @@ Stacked acrylic case
 
 ## Assembly Guide
 
-Will be update soon !!!
+See inside "case" folder !!!
 
 
 ## Firmware
