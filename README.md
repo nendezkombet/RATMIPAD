@@ -30,9 +30,7 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 - Multi layout support.
 - Easy to source components.
 - Easy to build.
-- MX style switch and Kailh low profile V2 switch compatible
-- Arduino Pro Micro powered.
-- QMK compatible.
+- Arduino Pro Micro 32u4 as MCU.
 - RGB backlighting support (optional).
 - Up to two rotary encoder support.
 - Hardware midi controller support.
