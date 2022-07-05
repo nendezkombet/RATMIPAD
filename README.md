@@ -89,9 +89,9 @@ Bottom view
 |3.5mm TRS female socket (optional) |PJ313|1|
 |Micro slide switch (optional)|MSS22D18 |1|
 |9V battery (optional) ||1|
-|10mm M2 "MALE TO FEMALE" brass standoff|round knurled|4|
-|10mm M2 "FEMALE TO FEMALE" brass standoff|round knurled|4|
-|5mm M2 screw|-|8|
+|8mm M2 "MALE TO FEMALE" brass standoff|round knurled|4|
+|8mm M2 "FEMALE TO FEMALE" brass standoff|round knurled|4|
+|6mm M2 screw|-|8|
 |3.5mm TRS jack to 5-pin midi din male socket (optional) |see detail below|1|
 
 
