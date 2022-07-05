@@ -1,0 +1,60 @@
+Macropad purpose :
+
+1. 8x WS2812B RGB LEDs ( optional )
+2. 8x SMD 0805 100nF capacitors ( this part just for prevent noise/flicker )
+3. 6-9x Cherry MX style switch or kailh low provile V2 switch 
+4. 1-2x EC11 rotary encoder ( optional )
+5. 4x 16mm height M2 screw ( top plate )
+6. 4x 6mm height M2 female ( bottom plate )
+7. 4x 10mm height M2 female brass standoff ( knurled and round shape, hex shape will not work )
+8. 1x Arduino Promicro 32u4 5v
+9. 1x 220ohm or 330ohm resistor for RGB data line
+10. 1x micro switch for reset button
+
+
+
+
+RATMI USED PIN LIST :
+
+1. S1 switch (10) 
+2. S2 switch (14) 
+3. S3 switch (4) 
+4. S4 switch (A1)
+5. S5 switch (A0)
+6. S6 switch (5)
+7. S7 switch (9)
+8. S8 switch (8)
+9. S9 switch (6)
+10.Encoder 1 (2, 3)
+11.Encoder 2 (A3, A2)
+12.RGB data line (7)
+
+
+
+
+RATMI BUILD STEP :
+
+Note : 
+// Using solder flux very recomended !!!
+// Prepare solder sucker if you make mistake
+// Clip the leg of the component if it's to long
+// Don't skip the build step
+
+1. Solder 8 RGB led L1-L8 
+2. Solder Capacitor C1-C8 
+3. Solder resistor 220ohm/330ohm on R10 solder hole/pad ( for rgb leds data line )
+4. Solder the encoder and reset switch
+5. Solder arduino pin header ( just pin header, for arduino do it in the last step )
+6. Attach all top plate on to PCB 
+7. Lock with m2 screw and female standoff
+8. Attach the switch buttons and tiddy up
+9. Solder the switch 
+10.Solder arduino to pin header
+11.Attach and screw all bottom plate on to PCB 
+13.Ready for firmware flashing
+
+Other component like power slide switch , battery socket, trs female socket and battery just free to solder without follow the build step.
+For midi connector cable wiring you can search on internet and make sure your wiring match with midi out on the PCB ex. TX-TX, VCC-VCC, and GND-GND
+
+if you have any question and find some bugs please contact me @synthvestigator.gmail or comment in my youtube video for this project @synthvestigator
+
