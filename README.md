@@ -79,7 +79,7 @@ Bottom view
 |:---|:---|:---|
 |WS2812B RGB LED |5050|8|
 |100nF capacitor|0805|8|
-|MX switch or Kailh low V2 switch |3 or 5 pin|9|
+|Cherry MX style switch |3 or 5 pin|9|
 |Rotary encoder|EC11|2|
 |Arduino Promicro |32u4|1|
 |10K pullup resistor (optional)|0805 or axial|9|
