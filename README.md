@@ -63,13 +63,14 @@ From left to right layout configuration :
 Top view
 
 
-![upper](https://user-images.githubusercontent.com/82454371/150636799-4c5a5ed7-6855-46f0-90fe-4ed2c280f6ce.png)
+![upper](https://user-images.githubusercontent.com/82454371/177364278-5f6fa795-b1a0-4919-bac2-ce5933a3545c.png)
 
 
 Bottom view
 
 
-![bottom](https://user-images.githubusercontent.com/82454371/150636808-75d68e0a-db87-46cb-b2ee-3d14b719f42a.png)
+![bottom](https://user-images.githubusercontent.com/82454371/177364353-fa122aa3-d547-4d01-a36d-d8262e0a93fd.png)
+
 
 
 ## BOM
