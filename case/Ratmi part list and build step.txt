@@ -4,9 +4,9 @@ Macropad purpose :
 2. 8x SMD 0805 100nF capacitors ( this part just for prevent noise/flicker )
 3. 6-9x Cherry MX style switch or kailh low provile V2 switch 
 4. 1-2x EC11 rotary encoder ( optional )
-5. 4x 16mm height M2 screw ( top plate )
-6. 4x 6mm height M2 female ( bottom plate )
-7. 4x 10mm height M2 female brass standoff ( knurled and round shape, hex shape will not work )
+5. 8x 6mm height M2 female
+6. 4x 8mm height M2 female to male brass standoff ( knurled and round shape, hex shape will not work )
+7. 4x 8mm height M2 female to female brass standoff ( knurled and round shape, hex shape will not work )
 8. 1x Arduino Promicro 32u4 5v
 9. 1x 220ohm or 330ohm resistor for RGB data line
 10. 1x micro switch for reset button
